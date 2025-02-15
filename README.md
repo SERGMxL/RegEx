@@ -1,4 +1,4 @@
-# RegEx
+# RegEx - Java Terminal
 
 Este programa en Java está diseñado para identificar si un texto ingresado por el usuario es un correo electrónico, un número de teléfono en el formato nnn-nnn-nnnn, o una dirección URL. El programa utiliza Programación Orientada a Objetos (POO) y está dividido en tres clases principales: Main, Interfaz, y Regex.
 
